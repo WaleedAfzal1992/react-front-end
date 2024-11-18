@@ -1,0 +1,16 @@
+{
+  "pageTitle": "Obtenha jogos reais",
+  "successTitle": "Seu formulário foi enviado.",
+  "formId": "ID do formulário",
+  "successNote": "Um membro da nossa equipe entrará em contato com você em 24 horas.",
+  "backToHome": "Voltar para casa",
+  "title": "Obtenha jogos reais",
+  "description": "Se seu site foi encontrado hospedando jogos falsificados, e você está buscando alternativas autênticas de fornecedores de jogos, a Gamecheck pode facilitar conexões diretas com as partes apropriadas. Nós apenas atualizamos perfis de status quando os fornecedores confirmam a presença de jogos legítimos no site.",
+  "name": "Nome",
+  "company": "Empresa",
+  "website": "Site",
+  "country": "País",
+  "submit": "Enviar",
+  "gamingProvider": "Provedor de jogos",
+  "email": "E-mail"
+}

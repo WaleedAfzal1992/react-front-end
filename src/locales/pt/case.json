@@ -1,0 +1,19 @@
+{
+  "case": "Caso: ",
+  "metaDescription": "Para ver informações do caso, visite nosso site.",
+  "countryOfOrigin": "País de origem:",
+  "website": "URL do cassino online:",
+  "getInTouch": "Entre em contato",
+  "contactNote": "Se este site pertence a você, entre em contato conosco imediatamente.",
+  "description": "Na Gamecheck, defendemos firmemente que os operadores de sites tenham uma única oportunidade de retificar o uso de jogos falsificados antes que quaisquer ações legais sejam movidas para encerrar as operações. Solicitamos gentilmente sua pronta atenção a este assunto para evitar uma escalada maior.",
+  "backToProfile": "voltar ao perfil",
+  "realGamesDescription": "Uma inspeção aleatória conduzida pela equipe de operações da Gamecheck verificou a utilização de software de jogo legítimo.",
+  "fakeGamesDescription": "Uma inspeção aleatória conduzida pela equipe de operações da Gamecheck detectou a presença de software de jogo falsificado.",
+  "shortDescription": "Inspeção aleatória realizada",
+  "pendingCategory": "Cheques Pendentes",
+  "noCounterfeitCategory": "Nenhum jogo falsificado identificado",
+  "counterfeitCategory": "Jogos falsificados identificados",
+  "pendingMessage": "O Gamecheck está atualmente realizando verificações e publicará os resultados assim que concluídos.",
+  "noCounterfeitMessage": "Uma revisão foi conduzida por vários fornecedores de jogos e NENHUMA evidência de jogos falsificados foi identificada durante a avaliação.",
+  "counterfeitMessage": "Nossa análise revelou a existência de jogos falsificados neste cassino online. Os jogadores podem querer evitar jogar neste cassino online, pois os jogos podem não funcionar como descrito ou pretendido."
+}

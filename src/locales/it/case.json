@@ -1,0 +1,19 @@
+{
+  "case": "Caso: ",
+  "metaDescription": "Per visualizzare le informazioni sul caso, visita il nostro sito web.",
+  "countryOfOrigin": "Paese di origine: ",
+  "website": "URL del casinò online:",
+  "getInTouch": "Mettiti in contatto",
+  "contactNote": "Se questo sito web è di tua proprietà, ti preghiamo di contattarci immediatamente.",
+  "description": "Noi di Gamecheck sosteniamo fermamente che gli operatori di siti web abbiano una sola opportunità per rettificare l'uso di giochi contraffatti prima che vengano intraprese azioni legali per terminare le operazioni. Chiediamo cortesemente la vostra pronta attenzione a questa questione per evitare ulteriori escalation.",
+  "backToProfile": "torna al profilo",
+  "realGamesDescription": "Un'ispezione casuale condotta dal team operativo di Gamecheck ha verificato l'utilizzo di software di gioco legittimo.",
+  "fakeGamesDescription": "Un'ispezione casuale condotta dal team operativo di Gamecheck ha rilevato la presenza di software di gioco contraffatto.",
+  "shortDescription": "Ispezione casuale eseguita",
+  "pendingCategory": "Controlli in sospeso",
+  "noCounterfeitCategory": "Nessun gioco contraffatto identificato",
+  "counterfeitCategory": "Identificati i giochi contraffatti",
+  "pendingMessage": "Gamecheck sta attualmente eseguendo controlli di verifica e pubblicherà i risultati una volta completati.",
+  "noCounterfeitMessage": "È stata condotta una revisione da parte di diversi fornitori di giochi e durante la valutazione NON è stata individuata alcuna prova di giochi contraffatti.",
+  "counterfeitMessage": "La nostra recensione ha scoperto l'esistenza di giochi contraffatti su questo casinò online. I giocatori potrebbero voler evitare di giocare su questo casinò online poiché i giochi potrebbero non funzionare come descritto o previsto."
+}

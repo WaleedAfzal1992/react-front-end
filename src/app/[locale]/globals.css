@@ -1,0 +1,49 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@layer base {
+    h1 {
+        @apply text-2xl;
+    }
+    h2 {
+        @apply text-xl;
+    }
+}
+
+/* Hide scrollbar for Chrome, Safari and Opera */
+.no-scrollbar::-webkit-scrollbar {
+    display: none;
+}
+
+/* Hide scrollbar for IE, Edge and Firefox */
+.no-scrollbar {
+    -ms-overflow-style: none; /* IE and Edge */
+    scrollbar-width: none; /* Firefox */
+}
+
+.grecaptcha-badge {
+    visibility: hidden;
+}
+
+*:first-letter {
+    text-transform: capitalize;
+}
+
+.editor-content {
+    display: flex;
+    flex-direction: column;
+    gap: 0.5rem;
+}
+
+.editor-content ul {
+    list-style-type: disc;
+    list-style-position: inside;
+    margin-left: 20px;
+}
+
+.editor-content ol {
+    list-style-position: inside;
+    list-style: decimal;
+    margin-left: 40px;
+}

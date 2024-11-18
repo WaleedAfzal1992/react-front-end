@@ -1,0 +1,16 @@
+{
+  "pageTitle": "Obtenez une licence",
+  "successTitle": "Votre formulaire est soumis.",
+  "formId": "ID du formulaire",
+  "successNote": "Un membre de notre équipe vous contactera dans les 24 heures.",
+  "backToHome": "Retour à l'accueil",
+  "title": "Obtenez une licence",
+  "description": "Gamecheck, votre partenaire de confiance pour vous aider à vous orienter dans le paysage complexe des licences mondiales. Grâce à notre connaissance approfondie des procédures de conformité et à nos relations établies avec les autorités de délivrance des licences du monde entier, nous offrons une assistance inégalée pour obtenir des licences adaptées à vos besoins spécifiques. Faites confiance à notre professionnalisme et à notre expertise pour rationaliser le processus, vous permettant ainsi de vous concentrer sur la croissance stratégique de votre entreprise.",
+  "name": "Nom",
+  "company": "Entreprise",
+  "website": "Site web",
+  "country": "Pays",
+  "submit": "Soumettre",
+  "email": "E-mail",
+  "licenseProvider": "Fournisseur de licence"
+}

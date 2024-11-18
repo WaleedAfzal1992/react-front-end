@@ -1,0 +1,78 @@
+name: Deploy DR Backup app to ECS
+
+on:
+  push:
+    branches:
+      - qa-setup
+
+jobs:
+  deploy:
+    runs-on: self-hosted
+    environment: QA
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Set up Docker Buildx
+        uses: docker/setup-buildx-action@v1
+
+      - name: Configure AWS credentials
+        uses: aws-actions/configure-aws-credentials@v1
+        with:
+          aws-access-key-id: ${{ secrets.DR_AWS_ACCESS_KEY_ID }}
+          aws-secret-access-key: ${{ secrets.DR_AWS_SECRET_ACCESS_KEY }}
+          aws-region: ${{ secrets.DR_AWS_REGION }}
+
+      - name: Fetch secrets from AWS Secrets Manager
+        run: |
+          SECRET=$(aws secretsmanager get-secret-value --secret-id .env.dr --region ${{ secrets.DR_AWS_REGION }} --query SecretString --output text)
+          echo "$SECRET" > .env.dr
+
+      - name: Log in to Amazon ECR
+        id: login-ecr
+        uses: aws-actions/amazon-ecr-login@v1
+
+      - name: Build, tag, and push image to ECR
+        env:
+          ECR_REGISTRY: ${{ secrets.AWS_ACCOUNT_ID }}.dkr.ecr.${{ secrets.DR_AWS_REGION }}.amazonaws.com
+          ECR_REPOSITORY: gamecheck-dr
+        run: |
+          docker buildx build --platform linux/amd64 -f Dockerfile.dr --tag $ECR_REGISTRY/$ECR_REPOSITORY:latest --push .
+
+      - name: Register updated task definition
+        run: |
+          aws ecs register-task-definition --family gamecheck-dr-td \
+            --network-mode awsvpc \
+            --requires-compatibilities FARGATE \
+            --cpu "1024" \
+            --memory "2048" \
+            --execution-role-arn arn:aws:iam::${{ secrets.AWS_ACCOUNT_ID }}:role/ecsTaskExecutionRole \
+            --task-role-arn arn:aws:iam::${{ secrets.AWS_ACCOUNT_ID }}:role/ecsTaskExecutionRole \
+            --container-definitions '[{
+              "name": "gamecheck-dr-app",
+              "image": "'"${{ secrets.AWS_ACCOUNT_ID }}.dkr.ecr.${{ secrets.DR_AWS_REGION }}.amazonaws.com/gamecheck-dr:latest"'",
+              "cpu": 1024,
+              "memory": 2048,
+              "portMappings": [
+                {
+                  "containerPort": 3000,
+                  "hostPort": 3000,
+                  "protocol": "tcp"
+                }
+              ],
+              "essential": true,
+              "logConfiguration": {
+                "logDriver": "awslogs",
+                "options": {
+                  "awslogs-create-group": "true",
+                  "awslogs-group": "/ecs/gamecheck-dr-logs",
+                  "awslogs-region": "'"${{ secrets.DR_AWS_REGION }}"'",
+                  "awslogs-stream-prefix": "ecs"
+                }
+              }
+            }]'
+
+      - name: Update ECS service with new task definition
+        run: |
+          aws ecs update-service --cluster gamecheck-dr-cluster --service gamecheck-dr-service --force-new-deployment --task-definition gamecheck-dr-td

@@ -1,0 +1,19 @@
+{
+  "case": "Fall: ",
+  "metaDescription": "Um Fallinformationen anzuzeigen, besuchen Sie bitte unsere Website.",
+  "countryOfOrigin": "Herkunftsland:",
+  "website": "URL des Online-Casinos:",
+  "getInTouch": "Kontaktieren Sie uns",
+  "contactNote": "Wenn diese Website Ihnen gehört, nehmen Sie bitte umgehend Kontakt mit uns auf.",
+  "description": "Bei Gamecheck setzen wir uns nachdrücklich dafür ein, dass Websitebetreiber eine einzige Gelegenheit haben, die Verwendung gefälschter Spiele zu korrigieren, bevor rechtliche Schritte zur Einstellung des Betriebs eingeleitet werden. Wir bitten Sie höflich, sich umgehend um diese Angelegenheit zu kümmern, um eine weitere Eskalation zu vermeiden.",
+  "backToProfile": "zurück zum Profil",
+  "realGamesDescription": "Eine vom Gamecheck-Betriebsteam durchgeführte Stichprobenprüfung hat die Verwendung legitimer Gaming-Software bestätigt.",
+  "fakeGamesDescription": "Bei einer vom Gamecheck-Einsatzteam durchgeführten Stichprobenprüfung wurde das Vorhandensein gefälschter Spielsoftware festgestellt.",
+  "shortDescription": "Durchgeführte Stichprobenprüfung",
+  "pendingCategory": "Ausstehende Prüfungen",
+  "noCounterfeitCategory": "Keine gefälschten Spiele identifiziert",
+  "counterfeitCategory": "Gefälschte Spiele identifiziert",
+  "pendingMessage": "Gamecheck führt derzeit Überprüfungen durch und wird die Ergebnisse veröffentlichen, sobald sie abgeschlossen sind.",
+  "noCounterfeitMessage": "Mehrere Spieleanbieter haben eine Prüfung durchgeführt und im Rahmen der Bewertung konnten KEINE Hinweise auf gefälschte Spiele gefunden werden.",
+  "counterfeitMessage": "Unsere Überprüfung hat die Existenz gefälschter Spiele in diesem Online-Casino aufgedeckt. Spieler sollten das Spielen in diesem Online-Casino vermeiden, da die Spiele möglicherweise nicht wie beschrieben oder beabsichtigt funktionieren."
+}

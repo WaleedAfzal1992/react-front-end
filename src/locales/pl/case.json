@@ -1,0 +1,19 @@
+{
+  "case": "Sprawa: ",
+  "metaDescription": "Aby zapoznać się z informacjami na temat sprawy, prosimy o odwiedzenie naszej strony internetowej.",
+  "countryOfOrigin": "Kraj pochodzenia:",
+  "website": "Adres URL kasyna online:",
+  "getInTouch": "Skontaktuj się z nami",
+  "contactNote": "Jeżeli jesteś właścicielem tej witryny, prosimy o natychmiastowy kontakt z nami.",
+  "description": "W Gamecheck stanowczo opowiadamy się za tym, aby operatorzy stron internetowych mieli jedną okazję do naprawienia wykorzystania fałszywych gier, zanim zostaną podjęte jakiekolwiek działania prawne w celu zakończenia działalności. Uprzejmie prosimy o niezwłoczne zajęcie się tą sprawą, aby uniknąć dalszej eskalacji.",
+  "backToProfile": "powrót do profilu",
+  "realGamesDescription": "Zespół operacyjny Gamecheck przeprowadził losową kontrolę, która potwierdziła wykorzystanie legalnego oprogramowania do gier.",
+  "fakeGamesDescription": "Zespół operacyjny Gamecheck przeprowadził losową kontrolę, w wyniku której wykryto obecność podrobionego oprogramowania do gier.",
+  "shortDescription": "Przeprowadzono losową inspekcję",
+  "pendingCategory": "Oczekujące kontrole",
+  "noCounterfeitCategory": "Nie zidentyfikowano żadnych podrobionych gier",
+  "counterfeitCategory": "Zidentyfikowano podrobione gry",
+  "pendingMessage": "Gamecheck jest obecnie w trakcie przeprowadzania kontroli weryfikacyjnych i opublikuje ich wyniki po ich zakończeniu.",
+  "noCounterfeitMessage": "Wielu dostawców gier przeprowadziło przegląd i w trakcie oceny NIE znaleziono żadnych dowodów na istnienie podrobionych gier.",
+  "counterfeitMessage": "Nasza recenzja ujawniła istnienie fałszywych gier w tym kasynie online. Gracze mogą chcieć unikać gry w tym kasynie online, ponieważ gry mogą nie działać zgodnie z opisem lub przeznaczeniem."
+}

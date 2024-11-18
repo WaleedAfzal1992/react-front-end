@@ -1,0 +1,16 @@
+{
+  "pageTitle": "Gerçek Oyunlar Alın",
+  "successTitle": "Formunuz gönderildi.",
+  "formId": "Form Kimliği",
+  "successNote": "Ekibimizden biri 24 saat içinde sizinle iletişime geçecektir.",
+  "backToHome": "Ana Sayfaya Dön",
+  "title": "Gerçek Oyunlar Alın",
+  "description": "Web sitenizin sahte oyunlar barındırdığı tespit edildiyse ve oyun satıcılarından otantik alternatifler arıyorsanız, Gamecheck uygun taraflarla doğrudan bağlantı kurmanızı sağlayabilir. Durum profillerini yalnızca satıcılar sitede meşru oyunların varlığını doğruladıktan sonra güncelleriz.",
+  "name": "İsim",
+  "company": "Şirket",
+  "website": "Web sitesi",
+  "country": "Ülke",
+  "submit": "Göndermek",
+  "gamingProvider": "Oyun Sağlayıcısı",
+  "email": "E-posta"
+}

@@ -1,0 +1,16 @@
+{
+  "pageTitle": "获取真实游戏",
+  "successTitle": "您的表格已提交。",
+  "formId": "表单编号",
+  "successNote": "我们的一名团队成员将在 24 小时内与您联系。",
+  "backToHome": "返回首页",
+  "title": "获取真实游戏",
+  "description": "如果您的网站被发现托管了盗版游戏，而您正在寻找游戏供应商提供的正版替代品，Gamecheck 可以促进与相关方的直接联系。我们只会在供应商确认网站上存在正版游戏后才更新状态资料。",
+  "name": "姓名",
+  "company": "公司",
+  "website": "网站",
+  "country": "国家",
+  "submit": "提交",
+  "gamingProvider": "游戏提供商",
+  "email": "电子邮件"
+}

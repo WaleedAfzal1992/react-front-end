@@ -1,0 +1,19 @@
+{
+    "case": "Case: ",
+    "metaDescription": "To view case information please visit our website.",
+    "countryOfOrigin": "Country of Origin: ",
+    "website": "Online Casino URL: ",
+    "getInTouch": "Get in touch",
+    "contactNote": "If this website belongs to you, please get in touch with us immediately.",
+    "description": "At Gamecheck, we firmly advocate for website operators to have a single opportunity to rectify the use of counterfeit games before any legal actions are pursued to terminate operations. We kindly request your prompt attention to this matter to avoid further escalation.",
+    "backToProfile": "back to profile",
+    "realGamesDescription": "A random inspection conducted by the Gamecheck operations team has verified the utilization of legitimate gaming software.",
+    "fakeGamesDescription": "A random inspection conducted by the Gamecheck operations team has detected the presense of counterfeit gaming software.",
+    "shortDescription": "Random inspection performed",
+    "pendingCategory": "Pending Checks",
+    "noCounterfeitCategory": "No Counterfeit Games Identified",
+    "counterfeitCategory": "Counterfeit Games Identified",
+    "pendingMessage": "Gamecheck is currently conducting verification checks and will publish results once completed.",
+    "noCounterfeitMessage": "A review has been conducted by multiple game providers and NO evidence of counterfeit games has been identified throughout the assessment.",
+    "counterfeitMessage": "Our review has uncovered the existence of counterfeit games on this online casino. Players may wish to avoid playing on this online casino as games may not perform as described or intended."
+}

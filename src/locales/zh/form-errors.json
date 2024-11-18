@@ -1,0 +1,11 @@
+{
+  "required": "此字段是必需的",
+  "selectFile": "请选择一个文件",
+  "maxFilesAllowed": "您最多只能上传 {{maxFiles}} 个文件",
+  "captchaFail": "Recaptcha 验证失败。",
+  "unknownError": "发生未知错误。请稍后重试。",
+  "invalidEmail": "请输入有效的电子邮件地址",
+  "maxLength": "请输入不超过 {{count}} 个字符",
+  "fileSizeError": "文件大小不应超过 {{size}}",
+  "fileTypeError": "所选文件类型无效。允许的文件类型为 {{types}}"
+}

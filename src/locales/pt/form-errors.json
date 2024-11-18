@@ -1,0 +1,11 @@
+{
+  "required": "Este campo é obrigatório",
+  "selectFile": "Selecione um arquivo",
+  "maxFilesAllowed": "Você só pode carregar no máximo {{maxFiles}} arquivos",
+  "captchaFail": "A verificação do Recaptcha falhou.",
+  "unknownError": "Ocorreu um erro desconhecido. Tente novamente mais tarde.",
+  "invalidEmail": "Por favor, insira um endereço de e-mail válido",
+  "maxLength": "Por favor, insira no máximo {{count}} caracteres",
+  "fileSizeError": "O tamanho do arquivo não deve ser maior que {{size}}",
+  "fileTypeError": "Tipo de arquivo inválido selecionado. Os tipos de arquivo permitidos são {{types}}"
+}

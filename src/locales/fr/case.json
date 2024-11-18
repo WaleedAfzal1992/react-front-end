@@ -1,0 +1,19 @@
+{
+  "case": "Cas: ",
+  "metaDescription": "Pour consulter les informations sur les dossiers, veuillez visiter notre site Web.",
+  "countryOfOrigin": "Pays d'origine :",
+  "website": "URL du casino en ligne :",
+  "getInTouch": "Entrer en contact",
+  "contactNote": "Si ce site Web vous appartient, veuillez nous contacter immédiatement.",
+  "description": "Chez Gamecheck, nous plaidons fermement pour que les opérateurs de sites Web aient une seule opportunité de rectifier l'utilisation de jeux contrefaits avant que des actions en justice ne soient engagées pour mettre fin aux opérations. Nous vous demandons de bien vouloir prêter attention à cette question dans les plus brefs délais afin d'éviter toute nouvelle escalade.",
+  "backToProfile": "retour au profil",
+  "realGamesDescription": "Une inspection aléatoire menée par l'équipe d'opérations de Gamecheck a vérifié l'utilisation de logiciels de jeu légitimes.",
+  "fakeGamesDescription": "Une inspection aléatoire menée par l'équipe des opérations de Gamecheck a détecté la présence de logiciels de jeu contrefaits.",
+  "shortDescription": "Inspection aléatoire effectuée",
+  "pendingCategory": "Vérifications en attente",
+  "noCounterfeitCategory": "Aucun jeu contrefait n'a été identifié",
+  "counterfeitCategory": "Des jeux contrefaits identifiés",
+  "pendingMessage": "Gamecheck effectue actuellement des contrôles de vérification et publiera les résultats une fois terminés.",
+  "noCounterfeitMessage": "Une évaluation a été menée auprès de plusieurs fournisseurs de jeux et aucune preuve de contrefaçon de jeux n’a été identifiée.",
+  "counterfeitMessage": "Notre analyse a révélé l'existence de jeux contrefaits sur ce casino en ligne. Les joueurs peuvent souhaiter éviter de jouer sur ce casino en ligne car les jeux peuvent ne pas fonctionner comme décrit ou prévu."
+}

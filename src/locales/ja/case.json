@@ -1,0 +1,19 @@
+{
+  "case": "場合： ",
+  "metaDescription": "事例情報をご覧になるには、弊社の Web サイトをご覧ください。",
+  "countryOfOrigin": "原産国： ",
+  "website": "オンラインカジノURL:",
+  "getInTouch": "連絡を取る",
+  "contactNote": "このウェブサイトがあなたの所有物である場合は、すぐにご連絡ください。",
+  "description": "Gamecheck では、ウェブサイト運営者が、運営停止の法的措置を講じる前に、偽造ゲームの使用を是正する機会を一度だけ持つことを強く推奨しています。事態がさらに悪化することのないよう、この問題に早急に対応していただきますようお願いいたします。",
+  "backToProfile": "プロフィールに戻る",
+  "realGamesDescription": "Gamecheck 運用チームが実施したランダム検査により、正規のゲーム ソフトウェアが使用されていることが確認されました。",
+  "fakeGamesDescription": "Gamecheck 運用チームが実施したランダム検査により、偽造ゲーム ソフトウェアの存在が検出されました。",
+  "shortDescription": "ランダム検査を実施",
+  "pendingCategory": "保留中のチェック",
+  "noCounterfeitCategory": "偽造ゲームは確認されませんでした",
+  "counterfeitCategory": "偽造ゲームが特定される",
+  "pendingMessage": "Gamecheck は現在検証チェックを実施しており、完了次第結果を公開します。",
+  "noCounterfeitMessage": "複数のゲームプロバイダーによるレビューが実施されましたが、評価全体を通じて偽造ゲームの証拠は確認されませんでした。",
+  "counterfeitMessage": "当社の調査により、このオンライン カジノに偽造ゲームが存在することが判明しました。ゲームが説明どおりまたは意図どおりに動作しない可能性があるため、プレイヤーはこのオンライン カジノでのプレイを避けることをお勧めします。"
+}

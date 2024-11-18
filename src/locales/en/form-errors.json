@@ -1,0 +1,11 @@
+{
+    "required": "This field is required",
+    "selectFile": "Please select a file",
+    "maxFilesAllowed": "You can only upload maximum of {{maxFiles}} files",
+    "captchaFail": "Recaptcha verification failed.",
+    "unknownError": "An unknown error occurred. Please try again later.",
+    "invalidEmail": "Please enter a valid email address",
+    "maxLength": "Please enter no more than {{count}} characters",
+    "fileSizeError": "File size should not be more than {{size}}",
+    "fileTypeError": "Invalid file type selected. Allowed File types are {{types}}"
+}

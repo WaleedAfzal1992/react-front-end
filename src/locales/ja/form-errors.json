@@ -1,0 +1,11 @@
+{
+  "required": "この項目は必須です",
+  "selectFile": "ファイルを選択してください",
+  "maxFilesAllowed": "アップロードできるファイルは最大 {{maxFiles}} 個までです",
+  "captchaFail": "ReCAPTCHA 検証に失敗しました。",
+  "unknownError": "不明なエラーが発生しました。しばらくしてからもう一度お試しください。",
+  "invalidEmail": "有効なメールアドレスを入力してください",
+  "maxLength": "{{count}}文字以内で入力してください",
+  "fileSizeError": "ファイルサイズは {{size}} 以下にしてください",
+  "fileTypeError": "無効なファイルタイプが選択されました。許可されているファイルタイプは {{types}} です。"
+}

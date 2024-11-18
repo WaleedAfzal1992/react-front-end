@@ -1,0 +1,16 @@
+{
+  "website": "Sitio web",
+  "checkNote": "Se han comprobado todos los proveedores de juegos.",
+  "verifyDetails": "Detalles de verificación",
+  "registeredWebsite": "Sitio web registrado",
+  "detailNotAvailable": "Detalles de verificación no disponibles para este sitio.",
+  "information": "Información",
+  "gamblingLicense": "Licencia de juego",
+  "gamblingPlatform": "Plataforma de juegos",
+  "p1": "Términos y condiciones de verificación de licencia (Descargo de responsabilidad)",
+  "p2": "Esta página de verificación de licencia es proporcionada por Gamecheck como un servicio para verificar el estado actual del dominio/marca del sitio web mencionado anteriormente como proveedor de IP, responsable de operar todos los juegos auténticos.",
+  "p3": "La creación o mantenimiento de cualquier enlace desde otro sitio web a esta página de Verificación de Licencia sin nuestro consentimiento previo por escrito está estrictamente prohibido.",
+  "p4": "Para comprobar la autenticidad, asegúrese de que la URL de este sitio web comience con gamecheck.com. Si no está seguro, consulte directamente el registro verificado en gamecheck.com.",
+  "p5": "Gamecheck se reserva el derecho de modificar estos términos en cualquier momento sin previo aviso. Al utilizar este servicio, usted acepta cumplir con estos términos y condiciones.",
+  "p6": "Esta versión incluye el nuevo nombre de la empresa y garantiza que los términos sean claros y estén alineados con la identidad de su negocio."
+}

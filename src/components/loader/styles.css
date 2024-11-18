@@ -1,0 +1,37 @@
+.app-loader {
+    position: relative;
+    min-width: 50px;
+    min-height: 20px;
+    background-repeat: no-repeat;
+    background-image: linear-gradient(#4caf50 100%, transparent 0),
+        linear-gradient(#4caf50 100%, transparent 0),
+        linear-gradient(#4caf50 100%, transparent 0),
+        linear-gradient(#4caf50 100%, transparent 0),
+        linear-gradient(#4caf50 100%, transparent 0);
+    background-position: 0px center, 15% center, 30% center, 45% center,
+        60% center, 75% center, 90% center;
+    animation: rikSpikeRoll 1s linear infinite;
+}
+@keyframes rikSpikeRoll {
+    0% {
+        background-size: 10% 3%;
+    }
+    16% {
+        background-size: 10% 100%, 10% 3%, 10% 3%, 10% 3%, 10% 3%;
+    }
+    33% {
+        background-size: 10% 30%, 10% 100%, 10% 3%, 10% 3%, 10% 3%;
+    }
+    50% {
+        background-size: 10% 10%, 10% 30%, 10% 100%, 10% 3%, 10% 3%;
+    }
+    66% {
+        background-size: 10% 3%, 10% 10%, 10% 30%, 10% 100%, 10% 3%;
+    }
+    83% {
+        background-size: 10% 3%, 10% 3%, 10% 10%, 10% 30%, 10% 100%;
+    }
+    100% {
+        background-size: 10% 3%, 10% 3%, 10% 3%, 10% 10%, 10% 30%;
+    }
+}

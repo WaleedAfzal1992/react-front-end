@@ -1,0 +1,15 @@
+export type Locale =
+    | "en"
+    | "fr"
+    | "es"
+    | "de"
+    | "it"
+    | "pt"
+    | "ru"
+    | "zh"
+    | "ja"
+    | "ko"
+    | "ar"
+    | "tr"
+    | "hi"
+    | "pl";

@@ -1,0 +1,11 @@
+{
+  "required": "Bu alan gereklidir",
+  "selectFile": "Lütfen bir dosya seçin",
+  "maxFilesAllowed": "En fazla {{maxFiles}} dosya yükleyebilirsiniz",
+  "captchaFail": "Recaptcha doğrulaması başarısız oldu.",
+  "unknownError": "Bilinmeyen bir hata oluştu. Lütfen daha sonra tekrar deneyin.",
+  "invalidEmail": "Geçerli bir e",
+  "maxLength": "Lütfen {{count}} karakterden fazla girmeyin",
+  "fileSizeError": "Dosya boyutu {{size}}'dan büyük olmamalıdır",
+  "fileTypeError": "Geçersiz dosya türü seçildi. İzin verilen dosya türleri {{types}}"
+}

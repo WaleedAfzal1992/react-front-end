@@ -1,0 +1,19 @@
+{
+  "case": "案件： ",
+  "metaDescription": "要查看案例信息，请访问我们的网站。",
+  "countryOfOrigin": "原产地： ",
+  "website": "在线赌场网址：",
+  "getInTouch": "联系我们",
+  "contactNote": "如果该网站属于您，请立即与我们联系。",
+  "description": "在 Gamecheck，我们坚决主张网站运营商有一次机会纠正盗版游戏的使用，否则将采取任何法律行动终止运营。我们恳请您立即关注此事，以避免事态进一步升级。",
+  "backToProfile": "返回个人资料",
+  "realGamesDescription": "Gamecheck 运营团队进行的随机检查已验证了所使用的正版游戏软件。",
+  "fakeGamesDescription": "Gamecheck 运营团队进行的随机检查发现了假冒游戏软件的存在。",
+  "shortDescription": "进行随机检查",
+  "pendingCategory": "待处理检查",
+  "noCounterfeitCategory": "未发现任何假冒游戏",
+  "counterfeitCategory": "已识别假冒游戏",
+  "pendingMessage": "Gamecheck 目前正在进行验证检查，完成后将公布结果。",
+  "noCounterfeitMessage": "多家游戏提供商已进行了审查，整个评估过程中未发现任何假冒游戏的证据。",
+  "counterfeitMessage": "我们的审查发现该在线赌场存在假冒游戏。玩家可能希望避免在该在线赌场玩游戏，因为游戏可能无法按描述或预期的方式运行。"
+}

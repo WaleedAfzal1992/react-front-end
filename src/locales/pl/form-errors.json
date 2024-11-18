@@ -1,0 +1,11 @@
+{
+  "required": "To pole jest wymagane",
+  "selectFile": "Proszę wybrać plik",
+  "maxFilesAllowed": "Możesz przesłać maksymalnie {{maxFiles}} plików",
+  "captchaFail": "Weryfikacja recaptcha nie powiodła się.",
+  "unknownError": "Wystąpił nieznany błąd. Spróbuj ponownie później.",
+  "invalidEmail": "Proszę wpisać prawidłowy adres e-mail",
+  "maxLength": "Proszę wpisać nie więcej niż {{count}} znaków",
+  "fileSizeError": "Rozmiar pliku nie powinien być większy niż {{size}}",
+  "fileTypeError": "Wybrano nieprawidłowy typ pliku. Dozwolone typy plików to {{types}}"
+}

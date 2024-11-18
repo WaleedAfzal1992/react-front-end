@@ -1,0 +1,19 @@
+{
+  "case": "Dava: ",
+  "metaDescription": "Dava bilgilerini görüntülemek için lütfen web sitemizi ziyaret edin.",
+  "countryOfOrigin": "Menşei ülke: ",
+  "website": "Çevrimiçi Casino URL'si:",
+  "getInTouch": "Bizimle iletişime geçin",
+  "contactNote": "Eğer bu web sitesi size ait ise lütfen hemen bizimle iletişime geçiniz.",
+  "description": "Gamecheck'te, web sitesi operatörlerinin operasyonları sonlandırmak için herhangi bir yasal işlem başlatılmadan önce sahte oyunların kullanımını düzeltmek için tek bir fırsata sahip olmalarını kesinlikle savunuyoruz. Daha fazla tırmanmayı önlemek için bu konuya derhal dikkat etmenizi rica ediyoruz.",
+  "backToProfile": "profile geri dön",
+  "realGamesDescription": "Gamecheck operasyon ekibi tarafından yapılan rastgele bir incelemede, meşru oyun yazılımının kullanıldığı doğrulandı.",
+  "fakeGamesDescription": "Gamecheck operasyon ekibi tarafından yapılan rastgele bir incelemede sahte oyun yazılımının varlığı tespit edildi.",
+  "shortDescription": "Rastgele denetim yapıldı",
+  "pendingCategory": "Bekleyen Çekler",
+  "noCounterfeitCategory": "Sahte Oyun Belirlenmedi",
+  "counterfeitCategory": "Sahte Oyunlar Belirlendi",
+  "pendingMessage": "Gamecheck şu anda doğrulama kontrolleri yürütüyor ve tamamlandığında sonuçları yayınlayacak.",
+  "noCounterfeitMessage": "Birden fazla oyun sağlayıcısı tarafından bir inceleme yürütüldü ve değerlendirme boyunca sahte oyunlara dair HİÇBİR kanıt tespit edilmedi.",
+  "counterfeitMessage": "İncelememiz bu çevrimiçi kumarhanede sahte oyunların varlığını ortaya çıkardı. Oyuncular bu çevrimiçi kumarhanede oynamaktan kaçınmak isteyebilirler çünkü oyunlar açıklandığı veya amaçlandığı gibi performans göstermeyebilir."
+}
